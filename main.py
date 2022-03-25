@@ -7,8 +7,8 @@ headers = {
 }
 
 json_data = {
-    'api_key': '2f187337-6c08-4430-b013-0aa31533e94e17fba0db70d13c',
-    'agent_id': '1a881bd1-4321-4bc0-9266-25e52450506817fb583a205358',
+    'api_key': '',
+    'agent_id': '',
     'utterance': 'こんにちは',
     'uid': 'mebo.ai_sample_001',
 }
